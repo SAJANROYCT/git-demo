@@ -1,2 +1,2 @@
 console.log("Welcome to Github Class")
-console.log("added one line")
+console.log("i've made one mistake")
